@@ -1,9 +1,6 @@
 
  -Start Development Process
   -first line 
-<<<<<<< HEAD
   -110
-=======
   -112
   -113
->>>>>>> Development
