@@ -1,4 +1,4 @@
-Repository Name: [# TestSourceControl]
+#TestSourceControl
 
 Description: 
 This repository serves as a learning document for Git commands.and contains simple notes about git&git-hub
